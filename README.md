@@ -3,7 +3,7 @@
 ## Hotel Revenue Dashboard
 This project involved building an interactive dashboard in Power BI to visualize key hotel revenue metrics. The goal was to create a unified view of hotel performance across multiple dimensions to support data-driven decision making.
 
-
+![DashBoard](https://raw.githubusercontent.com/Mohammedelmargane/Hotel_RevenueProject/main/Images/Screenshot%202023-10-01%20085528.png)
 
 **Data Overview**
 The data included hotel booking information such as booking dates, room rates, discount percentages, total revenue, and required parking spaces. Data was aggregated from multiple hotels over a multi-year period from 2018 to 2020.
